@@ -3,7 +3,6 @@ package com.dp.Buider;
 import com.dp.model.House;
 
 public interface HouseBuilder {
-	
 	void buildFoundation();
 	void buildStructure();
 	void buildRoof();

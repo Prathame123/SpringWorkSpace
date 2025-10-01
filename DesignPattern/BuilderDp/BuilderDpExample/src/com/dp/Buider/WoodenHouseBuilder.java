@@ -2,7 +2,7 @@ package com.dp.Buider;
 
 import com.dp.model.House;
 
-public class WoodenHouseBuilder implements HouseBuilder {
+public class WoodenHouseBuilder implements HouseBuilder { 
 
 	private House house = new House();
 	

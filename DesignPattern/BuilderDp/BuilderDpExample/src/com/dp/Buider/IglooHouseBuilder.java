@@ -2,7 +2,7 @@ package com.dp.Buider;
 
 import com.dp.model.House;
 
-public class IglooHouseBuilder implements HouseBuilder {
+public class IglooHouseBuilder implements HouseBuilder { 
 
 private House house = new House();
 	

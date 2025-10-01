@@ -2,6 +2,7 @@ package com.dp.Buider;
 
 import com.dp.model.House;
 
+
 public class ConcreateHouseBuilder implements HouseBuilder {
 	private House house = new House();
 	
@@ -13,7 +14,6 @@ public class ConcreateHouseBuilder implements HouseBuilder {
 
 	@Override
 	public void buildStructure() {
-		// TODO Auto-generated method stub
 		house.setStrcture("Concreate cement steel strcture");
 		System.out.println("ConcreateHouseBuilder.buildStructure()");
 	}
