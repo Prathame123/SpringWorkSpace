@@ -1,8 +1,0 @@
-/**
- * 
- */
-/**
- * 
- */
-module FactoryDesignPattern_FactoryMethodDP {
-}
